@@ -252,21 +252,6 @@ npm start
 
 ---
 
-## 🎬 **Application Demo GIF**
-
-![Chat App Demo](screenshots/Screenshot%202025-07-18%20at%2014.46.22.png)
-
-*This GIF would show:*
-1. User login process
-2. Sending messages in real-time
-3. Emoji reactions
-4. File upload and sharing
-5. Private messaging
-6. Typing indicators
-7. User joining/leaving notifications
-
----
-
 ## 🔧 **Technical Implementation**
 
 ### **🏗️ Server Architecture**
@@ -506,8 +491,8 @@ SOFTWARE.
 
 **Brenda Amunga**
 - GitHub: [@AmungaBrenda](https://github.com/AmungaBrenda)
-- Email: brendaamunga@example.com
-- LinkedIn: [Brenda Amunga](https://linkedin.com/in/brendaamunga)
+- Email: breeamunga@gmail.com
+- LinkedIn: [Brenda Amunga](https://linkedin.com/in/amunga-brenda)
 
 ---
 
